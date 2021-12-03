@@ -1,3 +1,3 @@
 # Twitter Clon React JS, GO & MongoDB
 # Backend Deploy in Heroku
-# Frontend Deploy DigitalOcean
+# Frontend Deploy Digital Ocean
